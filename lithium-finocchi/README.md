@@ -4,12 +4,12 @@ Proyecto e-commerce hecho en react para la cursada en Coderhouse.
 
 ## Sobre el proyecto
 
-**Lithium** es un ecommerce donde se publica la venta de productos electronicos. Las categorias incluyen:
+**Lithium** es un ecommerce donde se publica la venta de productos electronicos. Las categorias de productos incluyen:
 
-1. Smartphones y Tablets
-2. Audio
-3. Notebooks
-4. Componentes de PC y perifericos.
+1. Audio
+2. Notebooks
+3. Perifericos.
+4. Smartphones y Tablets
 
 ## Status
 

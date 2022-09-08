@@ -1,5 +1,5 @@
 import BoltIcon from '@mui/icons-material/Bolt';
-import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import CartWidget from './CartWidget'
 import './NavBar.css';
 
 
@@ -19,7 +19,7 @@ const NavBar = () => {
             <li><a href="#">Smartphones y Tablets</a></li>
         </nav>
 
-        <ShoppingCartIcon className="shopping-cart" sx={{ fontSize: 40 }}/>
+        <CartWidget />
     </header>
   )
 }

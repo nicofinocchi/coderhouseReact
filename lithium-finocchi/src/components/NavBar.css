@@ -41,12 +41,3 @@
 .navbar h1:hover {
     cursor: pointer;
 }
-
-.shopping-cart {
-    padding: 0 25px;
-}
-
-.shopping-cart:hover {
-    color: rgb(70, 70, 70);
-    cursor: pointer;
-}
