@@ -1,5 +1,5 @@
 import BoltIcon from '@mui/icons-material/Bolt';
-import CartWidget from './CartWidget'
+import CartWidget from './CartWidget';
 import './NavBar.css';
 
 
